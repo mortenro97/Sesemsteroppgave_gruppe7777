@@ -1,0 +1,7 @@
+Vi besluttet å bruke Java 8.1 fordi det er litt vanskelig å finne løsninger for problemene som oppstår når man bruker Maven og siste versjoner, i tillegg at vi bruker forskjellige datamaskiner, gjør det enda vanskeligere.
+
+Vi kunne har laget flere klasser (for eks. valideringsklasse....). Men det virker like bra uten.
+
+
+Controller:
+Hver del innh
